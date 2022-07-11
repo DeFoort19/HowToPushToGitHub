@@ -1,7 +1,7 @@
 # HowToPushToGitHub
 First, lets create our repository on GitHub, click new in the Repositories tab then create the name and commit after checking the "read me" box so we can add text and images later. 
 
-Next, we want to create a folder on our desktop that will hold all of our files for this project. After that, we are going to copy the link in the above image and use the command "git clone" in GitBash to clone the new repo in your desirable folder. 
+Next, we want to create a folder on our desktop that will hold all of our files for this project. After that, we are going to copy the link in the green "code" button selection. We will now use the command "git clone" in GitBash to clone the new repo in your desirable folder. 
 
 Now, you will want to add all your work to that folder before sending it all to GitHub: images, cloned repository, and your read me should all be in your folder at this point. 
 
